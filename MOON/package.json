@@ -1,0 +1,19 @@
+{
+  "name": "serverhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "r": "node index.js"
+  },
+  "dependencies": {
+    "canvacord": "^5.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "discord.js-avatar": "^1.0.0",
+    "figlet": "^1.5.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "request": "^2.88.2"
+  }
+}
